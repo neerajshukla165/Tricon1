@@ -1,4 +1,4 @@
-# Tricon1
+# Tricon
 <!DOCTYPE html>
 <html>
 <body>
